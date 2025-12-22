@@ -1,2 +1,5 @@
 # Hangman.py
 Simplified version of the classic game called Hangman, coded in Python.
+
+May not work with IDEs, because there is a few lines of ANSI code to clear the screen.
+Recommended to run in terminal.
